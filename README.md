@@ -12,3 +12,8 @@ f1	0.4065
 precision	0.5569
 recall	0.3201
 
+28/09/2025 shuffle version 3 leaderboard(macro f1): 
+accuracy	0.4668
+f1	0.3300
+precision	0.4988
+recall	0.2465
