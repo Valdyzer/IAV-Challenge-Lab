@@ -18,8 +18,14 @@ f1	0.4029
 precision	0.5520
 recall	0.3172
 
-28/09/2025 shuffle version 4 leaderboard(micro f1) with optimizer = NAdam: 
+01/10/2025 shuffle version 4 leaderboard(micro f1) with optimizer = NAdam: 
 accuracy	0.5003
 f1	0.3648
 precision	0.5215
 recall	0.2805
+
+01/10/2025 shuffle version 5 leaderboard(micro f1) with scheduler=OneCycleLR: 
+accuracy	0.4689
+f1	0.3313
+precision	0.4947
+recall	0.2490
