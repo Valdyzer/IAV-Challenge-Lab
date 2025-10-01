@@ -18,3 +18,8 @@ f1	0.4029
 precision	0.5520
 recall	0.3172
 
+28/09/2025 shuffle version 4 leaderboard(micro f1) with optimizer = NAdam: 
+accuracy	0.5003
+f1	0.3648
+precision	0.5215
+recall	0.2805
