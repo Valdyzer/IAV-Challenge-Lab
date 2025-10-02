@@ -29,3 +29,10 @@ accuracy	0.4689
 f1	0.3313
 precision	0.4947
 recall	0.2490
+
+01/10/2025 shuffle version 6 leaderboard(micro f1) with lossfunction=L1Loss: 
+accuracy	0.6961
+f1	0.0396
+precision	0.0205
+recall	0.5674
+
